@@ -1,0 +1,16 @@
+# requirements.txt
+qiskit~=1.2.4
+qiskit_machine_learning
+torch
+numpy~=1.26.4
+pandas~=2.2.3
+scikit-learn~=1.5.2
+shap
+lime
+tensorflow~=2.16.2
+keras~=3.6.0
+langgraph
+langchain-google-genai
+langchain-community
+langchain-core
+langchain
